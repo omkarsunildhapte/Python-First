@@ -1,0 +1,9 @@
+print("Hello,world")
+# This is python Program
+x=5
+y="Hello,Boys!"
+print(x,y)
+"""
+this is a comment written by vs code
+is here
+"""
