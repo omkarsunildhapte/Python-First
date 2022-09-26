@@ -1,0 +1,11 @@
+x ="omkar us "
+def myfunc():
+    global x
+    x=" sunil us"
+    print ("python" +x)
+myfunc() 
+   
+print("python" +x)
+
+
+  
